@@ -3,6 +3,7 @@
 ## techniques, lore, etc
 - [[Sharpening]]
 - [[Cast Iron Care + Feeding]]
+- [[Wok Stuff]]
 
 ## the recipes!
 - [[Dal Tadka]]
@@ -15,3 +16,4 @@
 - [[Lasagne]]
 - [[Dim Sum]]
 - [[Huevos Rancheros for 20]]
+- [[The Bread]]
