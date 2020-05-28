@@ -1,4 +1,4 @@
-# food.brahaman.ai: a community cookbook
+# A Ham Brain: the Brahman community cookbook
 
 ## techniques, lore, etc
 - [[Sharpening]]
@@ -6,7 +6,7 @@
 - [[Wok Stuff]]
 
 ## the recipes!
-- [[Dal Tadka]]
+- [[Dal Tadka]] by @parkan
 - [[Dosas]]
 - [[Dry Fried Beans]]
 - [[Refried Beans]]
@@ -17,3 +17,6 @@
 - [[Dim Sum]]
 - [[Huevos Rancheros for 20]]
 - [[The Bread]]
+- [[Kimchi]] 
+
+if you're a Brahman participant, please contribute to these recipes (or any others that come to mind)!
