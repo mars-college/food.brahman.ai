@@ -32,6 +32,6 @@ I made this a few nights at Brahman 2020 at Pirates and it seemed relatively pop
 8. after a lil' bit, add the olives. I also like these to sit for a good bit.
 9. whenever the water is boiling, add your pasta and cook to whatever firmness you want. i tend to like al dente but ya.
 10. add the half jar of tomato sauce and give things a good stir. don't have to really worry about the garlic getting burnt anymore at this point.
-11. add in your all your spices to taste and salt and what not, tomatoes, and maybe capers if you got them and let this sit for a while. watch out for bubbling sauce because I mean, that just gets annoying to clean. The tomatoes tend to now disappear bc roma tomatoes don't really do that.
-12. tadaaaaaa. it's done. dole out pasta servingns and put the pan stuff on top of the pasta stuff and mix around and stuff.
+11. add in all your spices to taste and salt and what not, tomatoes, and maybe capers if you got them and let this sit for a while. watch out for bubbling sauce because I mean, that just gets annoying to clean. The tomatoes tend to not disappear bc roma tomatoes don't really do that.
+12. tadaaaaaa. it's done. dole out pasta servings and put the pan stuff on top of the pasta stuff and mix around and stuff.
 13. I tend to like to top my pasta with the cheese, and then add more red pepper flakes and more pepper on top but you do you.
