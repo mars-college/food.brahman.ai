@@ -28,7 +28,7 @@ _(scales up linearly)_
 - 1-2 small red chiles (dry) or 1 serrano, deseeded and cut
 - some hing/asafoetida _or_ 1 more garlic clove (minced)
 
-### Garnish
+### garnish
 - cilantro leaves, chopped
 - greek yogurt, kefir, curd, etc
 
