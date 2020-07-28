@@ -1,6 +1,6 @@
 # Tongbaechu-kimchi, Bombay Beach style.
 
-This recipe is mainly based on Maangchi's traditional napa cabbage kimchi. Her website is an excellent resource for all sorts of Korean cooking. She has been sharing her recipes online and on YouTube for long enough that I am somewhat of a Maangchi loyalist when it comes to learning Korean recipes online. I have gotten feedback from Korean friends with opinions whenever possible.
+This recipe is mainly based on [Maangchi's traditional napa cabbage kimchi](https://www.maangchi.com/recipe/tongbaechu-kimchi). Her website is an excellent resource for all sorts of Korean cooking. She has been sharing her recipes online and on YouTube for long enough that I am somewhat of a Maangchi loyalist when it comes to learning Korean recipes online. I have gotten feedback from Korean friends with opinions whenever possible.
 
 While in Bombay Beach, we made two large batches of kimchi for each house to share - the first time without the rice porridge which included a vegan version. It was less complex in ingredients and flavor, but both times used the same whole-cabbage preparation technique and both were delicious. We never had fermented shrimp paste on hand, but I normally skip that anyway because honestly I'm afraid of spilling it in my house and having to move out.
 
@@ -44,13 +44,13 @@ _There is a 2 hour rest time at the end of this which is fairly passive - use th
 - Cut each napa lengthwise into quarters so that the leaves stay attached.
 - Give each quarter a quick dip/rinse in water. This will help the salt stick.
 - Salt the napa leaves one at a time starting with the outer layer: without breaking off the leaves, spread an even layer of salt on the inside of each leaf. Use more at the thicker stems - I like to give it a firm but gentle massage on these spots.
-- Let salted sections rest in a tub or large bowl for 2 hours. You will notice that the salt helps to draw out water in the napa. Every 1/2 hour during the resting you should flip the sections over, redistributing its own liquid. By the end of this process the napa quarters should be limp and translucent.
+- Let salted sections rest in a tub or large bowl for 2 hours. You will notice that the salt helps to draw out water in the napa. Every 1/2 hour during the resting you should flip the sections over, redistributing its own liquid. By the end of this process the napa quarters should be limp and partially translucent.
 
 ## PART 2 - MAKE THE PORRIDGE & KIMCHI PASTE
 
 - Combine 2 cups of water and 2 Tbsp of glutinous rice flour in a small pot. Cook over medium heat until it bubbles, about 10 mins.
 - Add 2 Tbsp sugar and continue stirring for 1 minute. Remove from heat and let it cool completely.
-- In a bowl, combine the cooled porridge, scallions, garlic, ginger, onion, fish sauce, and gochugaru. Mix well, forming a thick paste.
+- In a bowl, combine the cooled porridge, scallions, garlic, ginger, onion, fish sauce, and gochugaru. Mix well, forming a thick paste. If not using the porrige, combine the remaining ingredients as is.
 - Combine paste with julienned daikon and carrots.
 
 ## PART 3 - STUFF THE NAPA
