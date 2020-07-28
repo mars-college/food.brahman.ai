@@ -1,6 +1,6 @@
 # Tongbaechu-kimchi, Bombay Beach style (Phoebe's version)
 
-This recipe is mainly based on [Maangchi's traditional napa cabbage kimchi](https://www.maangchi.com/recipe/tongbaechu-kimchi). Her website is an excellent resource for all sorts of Korean cooking. She has been sharing her recipes online and on YouTube for long enough that I am somewhat of a Maangchi loyalist when it comes to learning Korean recipes online. I have gotten feedback from Korean friends with opinions whenever possible.
+This recipe is mainly based on [Maangchi's traditional napa cabbage kimchi](https://www.maangchi.com/recipe/tongbaechu-kimchi). Her website is an excellent resource for all sorts of Korean cooking. She has been sharing her recipes online and on YouTube for long enough that I am somewhat of a Maangchi loyalist when it comes to learning Korean recipes online. I've also incorporated feedback from Korean friends with Opinions.
 
 While in Bombay Beach, we made two large batches of kimchi for each house to share - the first time without the rice porridge which included a vegan version. It was less complex in ingredients and flavor, but both times used the same whole-cabbage preparation technique and both were delicious. We never had fermented shrimp paste on hand, but I normally skip that anyway because honestly I'm afraid of spilling it in my house and having to move out.
 
