@@ -1,4 +1,4 @@
-# Tongbaechu-kimchi, Bombay Beach style.
+# Tongbaechu-kimchi, Bombay Beach style (Phoebe's version)
 
 This recipe is mainly based on [Maangchi's traditional napa cabbage kimchi](https://www.maangchi.com/recipe/tongbaechu-kimchi). Her website is an excellent resource for all sorts of Korean cooking. She has been sharing her recipes online and on YouTube for long enough that I am somewhat of a Maangchi loyalist when it comes to learning Korean recipes online. I have gotten feedback from Korean friends with opinions whenever possible.
 
