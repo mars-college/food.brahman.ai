@@ -16,8 +16,9 @@
 - [[Lasagne]]
 - [[Dim Sum]]
 - [[Huevos Rancheros for 20]]
-- [[The Bread]]
+- [The Bread](bread.md)
+- [Kombucha](kombucha.md)
 - [[Kimchi]] 
-- [[anchovy_pasta_with_olives]] by @derekxkwan
+- [anchovy_pasta_with_olives](anchovy_pasta_with_olives.md) by @derekxkwan
 
 if you're a Brahman participant, please contribute to these recipes (or any others that come to mind)!
