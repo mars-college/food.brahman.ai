@@ -25,7 +25,7 @@ _(scales up linearly)_
 - 1/4 tsp chili powder (to taste)
 - _(optional)_ 1/4 cup diced tomatoes (canned or do it yourself!)
 - _(optional)_ 1/4 tsp garam masala
-- _(optional)_ "spig" (some) curry leaves
+- _(optional)_ "spirg" (some) curry leaves
 - 1-2 small red chiles (dry) or 1 serrano, deseeded and cut
 - some hing/asafoetida _or_ 1 more garlic clove (minced)
 
